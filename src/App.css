@@ -1,0 +1,28 @@
+.btn1{
+  height: 30px;
+  width: 140px;
+  border-radius: 12px;
+  background-color: rgb(238, 232, 112);
+  border-width: 0px;
+
+}
+
+.span{
+  height: 30px;
+  width: 140px;
+  border-radius: 6px;
+  background-color: rgb(245, 195, 29);
+  border-width: 0px;
+}
+
+#months{
+  height: 30px;
+  width: 100px;
+  
+}
+
+.btn-flex{
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
